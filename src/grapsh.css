@@ -1,0 +1,7 @@
+svg {
+    transform: rotate(90deg);
+}
+
+svg g text {
+    rotate: -90deg;
+}
