@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andre25092002/lab1/static/css/main.3ac0fa00.css",
+    "main.js": "/andre25092002/lab1/static/js/main.064488de.js",
+    "index.html": "/andre25092002/lab1/index.html",
+    "main.3ac0fa00.css.map": "/andre25092002/lab1/static/css/main.3ac0fa00.css.map",
+    "main.064488de.js.map": "/andre25092002/lab1/static/js/main.064488de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac0fa00.css",
+    "static/js/main.064488de.js"
+  ]
+}
